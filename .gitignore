@@ -1,0 +1,10 @@
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+.DS_Store
+Thumbs.db
