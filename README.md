@@ -1,163 +1,252 @@
 <p align="center">
-  <img src="images/cannibal_hymn_gable.png" alt="The Cannibal Hymn — East Gable of the Antechamber, Pyramid of Unas" width="700"/>
+  <img src="images/cannibal_hymn_gable.png" alt="The Cannibal Hymn — East Gable of the Antechamber, Pyramid of Unas, c. 2353 BCE" width="720"/>
 </p>
 
 <h1 align="center">The Pyramid as Machine</h1>
-
 <h3 align="center"><em>Spectral Engineering in the World's Oldest Religious Architecture</em></h3>
 
 <p align="center">
-  <strong>Bryan Daugherty, CCI, CBI, SME &nbsp;·&nbsp; Shawn Ryan &nbsp;·&nbsp; Gregory Ward</strong><br/>
-  <em>March 2026</em>
+  <strong>Bryan Daugherty, CCI, CBI, SME</strong><br/>
+  <strong>Shawn Ryan &nbsp;·&nbsp; Gregory Ward</strong><br/><br/>
+  <a href="#the-book">Book (Forthcoming)</a> &nbsp;·&nbsp;
+  <a href="#key-findings">Findings</a> &nbsp;·&nbsp;
+  <a href="#the-universal-compression-hierarchy">Hierarchy</a> &nbsp;·&nbsp;
+  <a href="#the-acoustic-architecture">Acoustics</a> &nbsp;·&nbsp;
+  <a href="#citation">Cite</a>
 </p>
 
 <p align="center">
-  <em>"The shape of power is the same, even when the language is different."</em>
+  <img src="https://img.shields.io/badge/Languages_Analyzed-9-blue" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Sacred_Texts-40%2B-green" alt="Texts"/>
+  <img src="https://img.shields.io/badge/Time_Span-4%2C500_Years-orange" alt="Span"/>
+  <img src="https://img.shields.io/badge/Status-Forthcoming-red" alt="Status"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="images/saqqara_necropolis.jpg" alt="Saqqara Necropolis" width="500"/>
-  <br/>
-  <em>The Saqqara necropolis — home of the world's oldest religious texts</em>
-</p>
+> *"The shape of power is the same, even when the language is different."*
 
 ---
 
-## The Discovery
+## Overview
 
 The Pyramid Texts of Saqqara (c. 2353 BCE) are the oldest substantial body of religious literature known to humanity — 900 spells carved into the subterranean walls of royal pyramids to guide the pharaoh's soul into eternity.
 
 **We discovered that these texts are not merely inscribed. They are *engineered*.**
 
-Each wall surface of the pyramid has a measurable phonemic specification — a target consonant frequency profile determined by its ritual function. Serpent-repulsion spells on the west gable produce a different spectral signature than resurrection theology on the south wall. And these specifications were **replicated across pyramids** separated by decades, with tolerances tighter than the natural drift of literary tradition.
+Each wall surface of the pyramid has a measurable phonemic specification — a target consonant frequency profile determined by its ritual function. These specifications were **replicated across pyramids** separated by decades, with tolerances tighter than the natural drift of literary tradition.
 
-The pyramid is not a text repository. It is a **standardized ritual machine**.
+When we extended the analysis beyond Egypt — to Sumerian temple hymns, Akkadian epics, Hebrew scriptures, Quranic surahs, Greek New Testament, the Ethiopian Bible, and the Emerald Tablet — the same functional hierarchy emerged in every tradition. Protective texts compress. Creation narratives elaborate. The gradient is universal.
+
+The pyramid is not a text repository. It is a **standardized ritual machine** — and one instance of a universal pattern that every human civilization rediscovered independently.
 
 <p align="center">
-  <img src="images/antechamber_wall.jpg" alt="Antechamber South Wall — Pyramid of Unas" width="500"/>
+  <img src="images/saqqara_necropolis.jpg" alt="Saqqara Necropolis" width="520"/>
   <br/>
-  <em>Antechamber south wall, Pyramid of Unas — hieroglyphs above the passage to the burial chamber</em>
+  <em>The Saqqara necropolis with the Step Pyramid of Djoser (3rd Dynasty).<br/>The Pyramid of Unas lies to the southwest of this complex.</em>
 </p>
+
+---
 
 ## Key Findings
 
-| Finding | Evidence | Significance |
-|---------|----------|-------------|
-| **Each wall has a phonemic specification** | 15 wall-level entropy values (0.515–0.601) | The pyramid is a functional machine |
-| **Specifications replicated across pyramids** | Δ < 0.02 between Unas, Teti, Pepi II | Standardized engineering across generations |
-| **The register survives democratization** | Coffin Text Cannibal cosine = 0.9826 | Sound design is load-bearing |
-| **Opposing walls are acoustic complements** | Serpent (guttural) vs Cannibal (nasal) face each other | The chamber is an acoustic instrument |
-| **Embedded Semitic detected by the oracle** | JSD = 0.152 (highest split divergence) | Proto-Canaanite boundary identified phonemically |
-| **DSS vs Masoretic Psalm 23** | Cosine = 0.9995 over 1,000 years | Highest scribal fidelity ever measured |
-| **Greek John Prologue** | H_lock = 0.466 | Most compressed sacred text identified |
-| **The gradient is universal** | 9 languages, 4,500 years, same hierarchy | Cultural function determines phonemic register |
+### The Pyramid Is a Machine
+
+| Finding | Measurement | What It Means |
+|---------|------------|---------------|
+| Wall-specific phonemic specifications | 15 wall-level H_lock values (0.515–0.601) | Each wall surface is tuned to a target register |
+| Cross-pyramid replication | Δ < 0.02 (Unas → Teti → Pepi II) | Three royal administrations built the same machine |
+| Register survives democratization | CT Cannibal cosine = **0.9826** | The sound design is functionally load-bearing |
+| Acoustic complementarity | Opposing walls: guttural vs. nasal | The chamber is a multi-driver acoustic system |
+
+### Beyond Egypt
+
+| Finding | Measurement | What It Means |
+|---------|------------|---------------|
+| Greek John Prologue | H_lock = **0.466** | Most compressed sacred text ever measured |
+| DSS vs. Masoretic Psalm 23 | Cosine = **0.9995** | 1,000 years of near-perfect scribal fidelity |
+| Surah An-Nas | H_lock = **0.485** | Quranic protective surah matches Egyptian serpent spell register |
+| Enheduanna (2300 BCE) | H_lock = **0.483** | The world's first author was already optimized |
+| OB → SB Gilgamesh | Δ = 0.017 over 1,150 years | Literary elaboration is measurable across millennia |
+| Embedded Semitic detection | JSD = **0.152** | The oracle independently identifies a linguistic boundary |
+
+<p align="center">
+  <img src="images/antechamber_wall.jpg" alt="Antechamber South Wall — Pyramid of Unas" width="420"/>
+  <br/>
+  <em>The antechamber south wall of the Pyramid of Unas (c. 2353 BCE).<br/>Hieroglyphs carved in sunk relief above the passage to the burial chamber.</em>
+</p>
+
+---
 
 ## The Universal Compression Hierarchy
 
-We analyzed **40+ sacred texts** across **nine language traditions** spanning **4,500 years**:
+Across **nine language traditions** spanning **4,500 years**, the same functional hierarchy emerges:
 
-> Egyptian · Sumerian · Akkadian · Hebrew · Arabic · Greek · Ge'ez · Latin · Georgian
+```
+MOST COMPRESSED                                              MOST ELABORATE
+    ◄──────────────────────────────────────────────────────────────►
 
-Every tradition produces the same gradient:
+    0.47        0.51        0.54        0.57        0.59        0.62
+     │           │           │           │           │           │
+     ▼           ▼           ▼           ▼           ▼           ▼
+  Mantra    Protective   Divine    Apocalyptic  Creation   Legislative
+            /apotropaic  revelation /prophetic  narrative  /discursive
 
-| Register | Mean H_lock | Function |
-|----------|------------|----------|
-| Theological mantra | **0.47** | Compressed declaration (Greek John Prologue) |
-| Protective / apotropaic | **0.51** | Terse commands against threats |
-| Divine self-revelation | **0.54** | "I AM THAT I AM" (Exodus 3:14) |
-| Doctrinal / ethical | **0.55** | Core teachings and creeds |
-| Apocalyptic / prophetic | **0.57** | Visionary formulae (1 Enoch, Isaiah) |
-| Theological prose | **0.58** | Complex argumentation |
-| Cosmogonic / creation | **0.59** | Naming the elements of the world |
-| Liturgical creed | **0.61** | Elaborated instruction (Shema, Psalms) |
-| Legislative / discursive | **0.62** | Law and enumeration |
+  Greek       Egyptian    Hebrew     Ge'ez      Egyptian    Quranic
+  John 1:1    serpent    Exodus     1 Enoch     Genesis     Al-Baqarah
+              spells      3:14                  1:1-5       opening
+```
 
-**Protective texts compress. Creation narratives elaborate. This gradient has been stable for 4,500 years.**
+**Languages analyzed:** Egyptian · Sumerian · Akkadian · Hebrew · Arabic · Greek · Ge'ez · Latin · Georgian
+
+**The gradient is language-independent.** Protective texts compress because protection requires command — terse, percussive, memorable. Creation narratives elaborate because cosmogony requires enumeration — naming each element of the created world. Between these poles, every sacred function finds its characteristic register.
 
 <p align="center">
-  <img src="images/weighing_of_heart.jpg" alt="Weighing of the Heart — Book of the Dead of Hunefer" width="600"/>
+  <img src="images/weighing_of_heart.jpg" alt="Weighing of the Heart — Book of the Dead of Hunefer, c. 1275 BCE" width="600"/>
   <br/>
-  <em>The Weighing of the Heart from the Book of the Dead of Hunefer (c. 1275 BCE) — the moral judgment system that replaced the Cannibal Hymn's violent apotheosis when the afterlife was democratized</em>
+  <em>The Weighing of the Heart — Book of the Dead of Hunefer (c. 1275 BCE, British Museum).<br/>
+  Anubis leads the deceased to judgment; the heart is weighed against the feather of Ma'at;<br/>
+  Thoth records the verdict; Osiris enthroned receives the justified dead.</em>
 </p>
+
+---
 
 ## The Acoustic Architecture
 
-The burial chamber of the Pyramid of Unas (~7.3 × 3.15 × 3.7 m, limestone) has a fundamental resonance at **23.5 Hz** — infrasound that falls in the human chest cavity resonance band (20–30 Hz).
+The burial chamber of the Pyramid of Unas (~7.3 × 3.15 × 3.7 m, limestone) has a fundamental resonance at **23.5 Hz** — infrasound below conscious hearing that falls in the human chest cavity resonance band (20–30 Hz).
 
-The serpent spells (west gable) and the Cannibal Hymn (east gable) face each other across the chamber with **complementary acoustic profiles**:
+The serpent spells and the Cannibal Hymn face each other across the chamber with **complementary acoustic profiles**:
 
-- **Serpent spells**: 17.6% voiced stops, 13.2% pharyngeals → *guttural, percussive, transient* — felt in the chest
-- **Cannibal Hymn**: 6.4% voiced stops, 50.9% sonorants → *nasal, flowing, sustained* — fills the space
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      BURIAL CHAMBER                             │
+│                                                                 │
+│  ╔═══════════╗                               ╔═══════════╗     │
+│  ║  SERPENT   ║         Sarcophagus          ║ CANNIBAL  ║     │
+│  ║  SPELLS    ║        ┌──────────┐          ║   HYMN    ║     │
+│  ║           ║        │          │          ║           ║     │
+│  ║ guttural  ║◄──────►│  priest  │◄────────►║  nasal    ║     │
+│  ║ percussive║ body   │          │  head    ║  flowing  ║     │
+│  ║ transient ║ felt   └──────────┘  filling ║ sustained ║     │
+│  ║           ║                               ║           ║     │
+│  ╚═══════════╝                               ╚═══════════╝     │
+│                                                                 │
+│  WEST GABLE                                    EAST GABLE      │
+│  voiced 17.6%                                  voiced 6.4%     │
+│  pharyngeal 13.2%                              sonorant 50.9%  │
+│                                                                 │
+│              f₀ = 23.5 Hz (infrasound)                          │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-The pyramid is not merely a machine. It is a **multi-driver acoustic system** with each wall tuned to produce a specific sound field when the texts are vocalized in the reverberant stone chamber.
+The most violent text in Egyptian literature (the Cannibal Hymn — the king consuming the gods) is delivered in the **smoothest phonemic register** in the entire corpus. The violence is semantic; the sound is flowing and nasal. The contrast amplifies the theological horror.
 
-## The Deeper Implication
+The scribes didn't annotate "speak harshly" or "intone smoothly." **The text IS the instruction.** The consonant palette generates the appropriate acoustic signature automatically when vocalized in the reverberant limestone chamber.
 
-The universality of the compression hierarchy across unrelated language families suggests a **natural law of symbolic communication** — not a cultural convention, but a functional necessity imposed by the physics of human cognition.
+---
 
-Oral formulaic texts compress because oral transmission **selects for memorability**. The Zipf exponent of the Pyramid Texts (α = −1.266, steeper than conversational language) indicates that ritual speech evolved **error-correcting properties** — the compression IS the redundancy that protects against corruption across millennia.
+## The Deeper Implications
 
-The offering formula *hetep di nesut* survived **2,000+ years** from the Pyramid Texts to the Book of the Dead. The Cannibal Hymn's sonorant register survived **350 years** of democratization with cosine similarity **0.9826**. The Hebrew scribes maintained Psalm 23 with **0.9995** fidelity across **1,000 years**.
+### Error-Correcting Codes in Sacred Speech
 
-These are not accidents. They are error-correcting codes, optimized by cultural evolution.
+The Zipf exponent of the Pyramid Texts (α = −1.266, steeper than conversational language) indicates that ritual speech evolved **error-correcting properties** through millennia of oral transmission. Higher redundancy = greater resistance to corruption.
+
+The offering formula *hetep di nesut* survived **2,000+ years**. The Cannibal register survived **350 years of democratization** (cosine 0.9826). Psalm 23 survived **1,000 years** of hand-copying (cosine 0.9995).
+
+These texts are not merely preserved by tradition. They are **inherently resistant to corruption** — error-correcting codes optimized by cultural evolution.
+
+### A Natural Law of Symbolic Communication
+
+The universality of the compression hierarchy — emerging independently in every tradition we tested — suggests a functional necessity imposed by human cognition:
+
+- **Memory constraints** favor compression for high-stakes texts (protective spells, commands)
+- **Semantic precision** requires diversity for complex theology and cosmogony
+- **Oral transmission** selects for phonemic distributions that sit on mathematical attractor basins
+
+This is convergent evolution at the level of symbolic communication. The same selection pressures produce the same phonemic distributions because the functions demand it — regardless of which language those functions are expressed in.
 
 <p align="center">
-  <img src="images/dead_sea_scrolls.jpg" alt="The Great Isaiah Scroll" width="600"/>
+  <img src="images/dead_sea_scrolls.jpg" alt="The Great Isaiah Scroll, c. 125 BCE" width="580"/>
   <br/>
-  <em>The Great Isaiah Scroll (1QIsa-a, c. 125 BCE) — the oldest near-complete biblical manuscript. Our analysis shows 0.9995 cosine similarity with the Masoretic text across 1,000 years of transmission.</em>
+  <em>The Great Isaiah Scroll (1QIsa-a, c. 125 BCE) — oldest near-complete biblical manuscript.<br/>
+  Psalm 23: cosine similarity 0.9995 between DSS and Masoretic text across 1,000 years.</em>
 </p>
+
+---
 
 ## The Book
 
-**The Pyramid as Machine: Spectral Engineering in the World's Oldest Religious Architecture**
-
-*85 pages · 34 chapters · 38 tables · 17 figures · 6 photographs · 4 appendices*
-
-A comprehensive analysis spanning nine language traditions across 4,500 years, from the serpent spells of Saqqara to the Dead Sea Scrolls, from Enheduanna's temple hymn to the Quran, from the Emerald Tablet to the Gospel of John.
-
-**Coming soon.**
-
 <p align="center">
-  <img src="images/rosetta_stone.jpg" alt="The Rosetta Stone" width="300"/>
-  <br/>
-  <em>The Rosetta Stone (196 BCE) — the key to Egyptian phonology</em>
+  <strong><em>The Pyramid as Machine: Spectral Engineering in the World's Oldest Religious Architecture</em></strong>
 </p>
 
-## Methodology
+|  |  |
+|--|--|
+| **Pages** | 85 |
+| **Chapters** | 34 |
+| **Tables** | 38 |
+| **Figures** | 17 (including 6 photographs) |
+| **Appendices** | 4 (Glossary, Key Measurements, Egyptian Vocabulary, Chronological Summary) |
+| **Bibliography** | 26 references |
+| **Languages** | Egyptian, Sumerian, Akkadian, Hebrew, Arabic, Greek, Ge'ez, Latin, Georgian |
+| **Time span** | 4,500 years (c. 2600 BCE – 1200 CE) |
+| **Texts analyzed** | 40+ sacred texts across all traditions |
 
-The analysis maps the consonantal phonemes of ancient texts into Z₂₃ (the integers modulo 23, corresponding to the 23-consonant inventory of Old Egyptian) and applies nonlinear iteration to measure the phonemic frequency profile of each text. The resulting **entropy lock value** (H_lock) is a stable fingerprint of the text's consonantal palette — determined by its frequency distribution, not by word order.
+**Publication forthcoming.** For inquiries, contact the authors.
 
-The method is general: it applies to any discrete symbolic system with a fixed inventory. The findings are robust across different oracle functions (the primary oracle sits at the 61.6th percentile of 50,000 random alternatives), confirming that the results are about **phonemic compression** rather than any specific mathematical function.
+<p align="center">
+  <img src="images/rosetta_stone.jpg" alt="The Rosetta Stone" width="280"/>
+  <br/>
+  <em>The Rosetta Stone (196 BCE, British Museum) — the key to Egyptian phonology<br/>
+  and the 23-consonant inventory that anchors our analysis.</em>
+</p>
+
+---
 
 ## Data Sources
 
-| Source | Texts | Consonants |
-|--------|-------|------------|
-| **Thesaurus Linguae Aegyptiae** (TLA) | 176 Pyramid Text spells | 17,905 |
-| **ETCSL / CDLI** | 4 Sumerian texts | 699 |
-| **Standard editions** (George, Abusch) | 3 Akkadian texts | 516 |
-| **UCL Digital Egypt / DSS Digital Library** | 5 Hebrew texts | 714 |
-| **Quranic Arabic Corpus** | 8 Quranic surahs | 779 |
-| **Nawawi collection** | 10 Hadith excerpts | 654 |
-| **Ethiopian biblical tradition** | 4 Ge'ez texts | 388 |
-| **Classical sources** | Greek NT, Latin, Emerald Tablet | 654 |
+| Source | Content | Coverage |
+|--------|---------|----------|
+| **Thesaurus Linguae Aegyptiae** | Pyramid Texts (Unas) | 176 spells, 17,905 consonants |
+| **ETCSL / CDLI** | Sumerian literature | Enheduanna, Kesh, Gudea, Udug-ḫul |
+| **Standard critical editions** | Akkadian literature | Gilgamesh (OB/SB), Maqlû |
+| **UCL Digital Egypt / DSS Digital Library** | Hebrew scriptures | Isaiah, Psalms, Genesis, Exodus, Deuteronomy |
+| **Quranic Arabic Corpus** | Quranic surahs | 8 surahs (Fatiha through Baqarah) |
+| **Nawawi collection** | Hadith tradition | 10 excerpts (isnad + matn) |
+| **Ethiopian biblical tradition** | Ge'ez Bible | Gospel of John, Genesis, 1 Enoch, Psalm 1 |
+| **Classical / Hermetic sources** | Greek NT, Emerald Tablet | John 1:1, Lord's Prayer, 1 Cor 13, Tabula Smaragdina |
+
+---
 
 ## Citation
 
-> Daugherty, B., Ryan, S., & Ward, G. (2026). *The Pyramid as Machine: Spectral Engineering in the World's Oldest Religious Architecture.* Manuscript.
+```bibtex
+@book{daugherty2026pyramid,
+  author    = {Daugherty, Bryan and Ryan, Shawn and Ward, Gregory},
+  title     = {The Pyramid as Machine: Spectral Engineering in the
+               World's Oldest Religious Architecture},
+  year      = {2026},
+  note      = {Manuscript in preparation}
+}
+```
+
+---
 
 ## License
 
-Text and analysis: All rights reserved. Publication forthcoming.
+**Text & Analysis:** Copyright (c) 2026 Bryan Daugherty, Shawn Ryan, Gregory Ward. All rights reserved.
 
-Images: Wikimedia Commons (CC BY-SA / Public Domain). See individual image pages for specific licenses.
+**Images:** Wikimedia Commons — CC BY-SA / Public Domain. See individual image source pages for specific license terms.
 
 ---
 
 <p align="center">
-  <em>"The shape of power is the same, even when the language is different."</em>
+  <br/>
+  <em>"The shape of power is the same,<br/>even when the language is different."</em>
   <br/><br/>
-  <strong>The scribes weren't copying text. They were engineering an acoustic instrument.<br/>The writing system preserved the sound design.</strong>
+  <strong>The scribes weren't copying text.<br/>
+  They were engineering an acoustic instrument.<br/>
+  The writing system preserved the sound design.</strong>
+  <br/><br/>
+  ━━━
 </p>
